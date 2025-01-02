@@ -1,3 +1,1 @@
-nginx
-jamesits/dst-server:latest
 ghcr.io/wg-easy/wg-easy
